@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"36b19489-ff34-4be0-b01b-0b1dbf9fa21d",
+	"author":	"kantoku",
+	"description":	{
+		"":	"OnTheFly"
+	},
+	"version":	"0.1.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
